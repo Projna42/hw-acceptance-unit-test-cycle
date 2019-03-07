@@ -23,7 +23,6 @@ end
 group :production do
   gem 'pg', '~> 0.20'
 end
-
 gem 'pg', '~> 0.20'
 
 # Gems used only for assets and not required
